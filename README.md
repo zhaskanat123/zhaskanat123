@@ -12,7 +12,8 @@
    📫 How to reach me: <a href='mailto:zhaskanat.sh@gmail'>zhaskanat.sh@gmail.com.com</a>
 </p>
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
+Passionate about transitioning into data analytics after 2+ years of experience as a math tutor, where I honed my analytical thinking and problem-solving skills. Now I am actively developing in the direction of data analysis. Recently completed an intensive analytics course, gaining hands-on experience in A/B testing, data analysis, and dashboard creation.  Eager to leverage my strong mathematical background and newly acquired skills in a data analytics internship to drive data-driven insights and contribute to impactful projects.
 
 
 <!--
