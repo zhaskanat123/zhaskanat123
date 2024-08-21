@@ -31,3 +31,4 @@ Passionate about transitioning into data analytics after 2+ years of experience 
 |----------------|-----------------|-----|
 |KevinCookieCompany.com  (__[github](https://github.com/zhaskanat123/KevinCookieCompany.com)__)|Learning usage of git(git pull, git push, merge, and etc). .|git|
 |Analyst Simulator  (__[github](https://github.com/zhaskanat123/Analyst_Simulator)__)|Provide an analysis of social network. Check the split system, conduct A/B tests, measure metrics(DAU, MAU, Retention rate, CTR).|Python(Pandas, Numpy, ), Clickhouse, Superset, Airflow, Telegram API|
+|Проект e-commerce  (__[github](https://github.com/zhaskanat123/Analyst_Simulator)__)|Проанализировать покупки, провести когортный анализ пользователей, построить RFM сегментацию пользователей |Python(Pandas, Numpy, Seaborn, Matplotlib, statistics)|
