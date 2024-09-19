@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Zhaskanat</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Аналитик Данных | Выпускник Назарбаев Университета </h3>
+<h3 align="center">Data Analyst | Graduate of Nazarbayev University </h3>
 
 <div align="center">
 
@@ -9,18 +9,21 @@
 
 </div>
 <p align='center'>
-   📫 Как связатся со мной: <a href='mailto:zhaskanat.sh@gmail'>zhaskanat.sh@gmail.com.com</a>
+   📫 How to reach me: <a href='mailto:zhaskanat.sh@gmail'>zhaskanat.sh@gmail.com.com</a>
 </p>
 
-### :man_technologist: Обо мне:
-Привет, меня зовут Жасканат Шаймурат, я аналитик данных из Казахстана с опытом работы в области электротехники и вычислительной техники. Я имею диплом Назарбаев Университета и более 2 лет опыта работы репетитором по математике. В настоящее время я перехожу на аналитику данных и выполнил несколько проектов по статистическому анализу, A/B-тестированию, визуализации данных и автоматизации.
+### :man_technologist: About me:
+Hi, I'm Zhascanat Shaimurat, a data analyst from Kazakhstan with a background in Electrical and Computer Engineering. I hold a degree from Nazarbayev University and have over 2 years of experience as a math tutor. Currently, I'm transitioning into data analytics and have completed several projects in statistical analysis, A/B testing, data visualization, and automation.
 
-У меня есть практический опыт в: 
-- Анализе данных и моделировании (включая бэктестинг с расширяющимися и скользящими окнами)
-- Работа с большими наборами данных и выполнение сегментационного анализа аудитории
-- Автоматизация рабочих процессов данных с использованием Python и SQL - Создание панелей мониторинга и создание отчетов по ключевым метрикам
-- Интеграция API, например, создание бота Telegram для мониторинга метрик в реальном времени
-###  🛠️ Языки и инструменты :  
+I have hands-on experience in:
+- Data analysis and modeling (including backtesting with expanding and rolling windows)
+- Working with large datasets and performing segmentation-based audience analysis
+- Automating data workflows using Python and SQL
+- Building dashboards and reporting key metrics
+- Integrating APIs, such as creating a Telegram bot for real-time metric monitoring
+
+I’m actively looking for opportunities in data analytics and am open to relocating to Almaty or Astana. Let’s connect!
+###  🛠️ Language and Tools :  
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
 ![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
@@ -33,7 +36,7 @@
 ![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
 
 
-|Имя проекта| Описание| Стек|
+|Project name| Description| Stack|
 |----------------|-----------------|-----|
 |KevinCookieCompany.com  (__[github](https://github.com/zhaskanat123/KevinCookieCompany.com)__)|Изучение использования git (git pull, git push, merge и т. д.). .|git|
 |Анализ начинающей компании (__[github](https://github.com/zhaskanat123/Analyst_Simulator)__)|Проведите анализ социальной сети. Проверьте систему разделения, проведите A/B-тесты, измерьте метрики (DAU, MAU, Retention rate, CTR).|Python(Pandas, Numpy, Matplotlib), Clickhouse, Superset, Airflow, Telegram API|
