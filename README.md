@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Zhaskanat</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data Analyst | Graduate Nazarbayev University </h3>
+<h3 align="center">Аналитик Данных | Выпускник Назарбаев Университета </h3>
 
 <div align="center">
 
@@ -9,12 +9,18 @@
 
 </div>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:zhaskanat.sh@gmail'>zhaskanat.sh@gmail.com.com</a>
+   📫 Как связатся со мной: <a href='mailto:zhaskanat.sh@gmail'>zhaskanat.sh@gmail.com.com</a>
 </p>
 
-### :man_technologist: About me:
-Passionate about transitioning into data analytics after 2+ years of experience as a math tutor, where I honed my analytical thinking and problem-solving skills. Now I am actively developing in the direction of data analysis. Recently completed an intensive analytics course, gaining hands-on experience in A/B testing, data analysis, and dashboard creation.  Eager to leverage my strong mathematical background and newly acquired skills in a data analytics internship to drive data-driven insights and contribute to impactful projects.
-###  🛠️ Languages and Tools :  
+### :man_technologist: Обо мне:
+Привет, меня зовут Жасканат Шаймурат, я аналитик данных из Казахстана с опытом работы в области электротехники и вычислительной техники. Я имею диплом Назарбаев Университета и более 2 лет опыта работы репетитором по математике. В настоящее время я перехожу на аналитику данных и выполнил несколько проектов по статистическому анализу, A/B-тестированию, визуализации данных и автоматизации.
+
+У меня есть практический опыт в: 
+- Анализе данных и моделировании (включая бэктестинг с расширяющимися и скользящими окнами)
+- Работа с большими наборами данных и выполнение сегментационного анализа аудитории
+- Автоматизация рабочих процессов данных с использованием Python и SQL - Создание панелей мониторинга и создание отчетов по ключевым метрикам
+- Интеграция API, например, создание бота Telegram для мониторинга метрик в реальном времени
+###  🛠️ Языки и инструменты :  
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
 ![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
@@ -27,9 +33,9 @@ Passionate about transitioning into data analytics after 2+ years of experience 
 ![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
 
 
-|Project name| Description| Stack|
+|Имя проекта| Описание| Стек|
 |----------------|-----------------|-----|
-|KevinCookieCompany.com  (__[github](https://github.com/zhaskanat123/KevinCookieCompany.com)__)|Learning usage of git(git pull, git push, merge, and etc). .|git|
-|Analyst Simulator  (__[github](https://github.com/zhaskanat123/Analyst_Simulator)__)|Provide an analysis of social network. Check the split system, conduct A/B tests, measure metrics(DAU, MAU, Retention rate, CTR).|Python(Pandas, Numpy, ), Clickhouse, Superset, Airflow, Telegram API|
+|KevinCookieCompany.com  (__[github](https://github.com/zhaskanat123/KevinCookieCompany.com)__)|Изучение использования git (git pull, git push, merge и т. д.). .|git|
+|Анализ начинающей компании (__[github](https://github.com/zhaskanat123/Analyst_Simulator)__)|Проведите анализ социальной сети. Проверьте систему разделения, проведите A/B-тесты, измерьте метрики (DAU, MAU, Retention rate, CTR).|Python(Pandas, Numpy, Matplotlib), Clickhouse, Superset, Airflow, Telegram API|
 |Проект e-commerce  (__[github](https://github.com/zhaskanat123/e-commerce.git)__)|Проанализировать покупки, провести когортный анализ пользователей, построить RFM сегментацию пользователей |Python(Pandas, Numpy, Seaborn, Matplotlib, statistics)|
 |Проект e-learning  (__[github](https://github.com/zhaskanat123/e-commerce.git)__)|Проанализировать покупки, провести когортный анализ пользователей, построить RFM сегментацию пользователей |Python(Pandas, Numpy, Seaborn, Matplotlib, statistics)|
