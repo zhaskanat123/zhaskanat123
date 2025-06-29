@@ -13,7 +13,7 @@
 </p>
 
 ### :man_technologist: About me:
-Hi, I'm Zhascanat Shaimurat, a data analyst from Kazakhstan with a background in Electrical and Computer Engineering. I hold a degree from Nazarbayev University and have over 2 years of experience as a math tutor. Currently, I'm transitioning into data analytics and have completed several projects in statistical analysis, A/B testing, data visualization, and automation.
+Hi, I'm Zhaskanat Shaimurat, a data analyst from Kazakhstan with a background in Electrical and Computer Engineering. I hold a degree from Nazarbayev University and have over 2 years of experience as a math tutor. Currently, I'm transitioning into data analytics and have completed several projects in statistical analysis, A/B testing, data visualization, and automation.
 
 I have hands-on experience in:
 - Data analysis and modeling (including backtesting with expanding and rolling windows)
